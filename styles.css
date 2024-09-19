@@ -1,6 +1,10 @@
 h1 {
-  font-size: 3em;
+  font-size: 1.5em;
   font-family: Helvetica;
+}
+
+#image {
+  display: flex;
 }
 
 body {
